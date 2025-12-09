@@ -146,11 +146,22 @@ Our method achieves superior calibration performance while maintaining or improv
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@article{tan2025surprise,
-  title={Surprise Calibration for Better In-Context Learning},
-  author={Tan, Zhihang and Hou, Jingrui and Wang, Ping and Hu, Qibiao and Zhu, Peng},
-  journal={arXiv preprint arXiv:2506.12796},
-  year={2025}
+@inproceedings{tan-etal-2025-surprise,
+    title = "Surprise Calibration for Better In-Context Learning",
+    author = "Tan, Zhihang  and
+      Hou, Jingrui  and
+      Wang, Ping  and
+      Hu, Qibiao  and
+      Zhu, Peng",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.1175/",
+    doi = "10.18653/v1/2025.emnlp-main.1175",
+    pages = "23056--23071",
+    ISBN = "979-8-89176-332-6",
 }
 ```
 
